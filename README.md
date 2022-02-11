@@ -1,11 +1,11 @@
-# Hi, I'm Martin 👋
+# Hi, I'm Martin ☕
 
-I'm a husband of beautiful woman; technician and programmer in industrial automation; IIOT, Arduino and Raspberry Pi enthusiast.
+I'm a husband of beautiful woman; technician and programmer in industrial automation; IIOT, Arduino and Raspberry Pi enthusiast live and work in Slovakia 🇸🇰 .
 
 - 🔭 I’m currently working on *[TOP SECRET]*
 - 🌱 I’m currently learning **Python**, **Java**, **C**, **LoRaWAN** and **Italian**
 - 💻 My primary PC is **MacBook Pro Mid 2009** with **Ubuntu 20.04.3 LTS**
-- 💬 Ask me about **MQTT**, **Siemens PLCs**, **Step-7**, **TIA Portal**, **WinCC**...
+- 💬 Ask me about **MQTT**, **Industrial Automation**, **Siemens PLCs**, **Step-7**, **TIA Portal**, **WinCC**...
 - 📫 How to reach me: **hello.martiniiot@gmail.com**
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MartinIIOT&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
