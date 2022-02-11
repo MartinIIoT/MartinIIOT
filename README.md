@@ -1,6 +1,6 @@
 # Hi, I'm Martin ☕
 
-I'm a husband of beautiful woman; technician and programmer in industrial automation; IIOT, Arduino and Raspberry Pi enthusiast live and work in Slovakia 🇸🇰 .
+I'm a husband of beautiful woman; technician and programmer in industrial automation; IIOT, Arduino and Raspberry Pi enthusiast. I live in amazing and beautiful **[Slovakia](https://en.wikipedia.org/wiki/Slovakia)** 🇸🇰 .
 
 - 🔭 I’m currently working on *[TOP SECRET]*
 - 🌱 I’m currently learning **Python**, **Java**, **C**, **LoRaWAN** and **Italian**
