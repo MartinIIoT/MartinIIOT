@@ -7,10 +7,6 @@ I'm a Christian and husband of beautiful woman; technician and programmer in ind
 - 💬 Ask me about **MQTT**, **Industrial Automation**, **Siemens PLCs**, **Step-7**, **TIA Portal**, **WinCC**...
 - 📫 How to reach me: **hello.martiniiot@gmail.com**
 
-
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=MartinIIoT&show_icons=true&include_all_commits=true&hide_border=true" alt="MartinIIoT's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MartinIIoT&layout=compact&hide_border=true" /></a> |
-| ------------- | ------------- |
-
 <sub><a href="https://www.flaticon.com/free-icons/engineer" title="engineer icons">Engineer icons created by Flat Icons - Flaticon</a></sub>
 
 <!--
