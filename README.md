@@ -2,7 +2,7 @@
 
 I'm a Christian and husband of beautiful woman; technician and programmer in industrial automation; IIOT, Arduino and Raspberry Pi enthusiast. I live in amazing and beautiful **[Slovakia](https://en.wikipedia.org/wiki/Slovakia)** in the heart of **[Europe](https://en.wikipedia.org/wiki/Europe)**.
 
-- 🔭 I’m currently working on *[TOP SECRET]*
+- 🔭 I’m currently working on **[myScanner](https://github.com/MartinIIoT/myScanner)**
 - 🌱 I’m currently learning **Python**, **Java**, **C++**, **LoRaWAN** and **Italian**
 - 💬 Ask me about **MQTT**, **Industrial Automation**, **Siemens PLCs**, **Step-7**, **TIA Portal**, **WinCC**...
 - 📫 How to reach me: **hello.martiniiot@gmail.com**
